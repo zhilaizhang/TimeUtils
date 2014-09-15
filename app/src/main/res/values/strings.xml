@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeChangeDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="time_change">时间的转换</string>
+    <string name="detailtime_to_days">1.具体时间转天数\n如2012-04-24T10:00:10+08:00，返回的结果是多长时间以前（如1小时以前；1天以前）,如果大于14天就显示具体的日前</string>
+    <string name="changed_times">2014-09-11T10:00:10+08:00转换后的时间为</string>
+    <string name="timestamp_to_days">2.时间戳转天数</string>
+</resources>
